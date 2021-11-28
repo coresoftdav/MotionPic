@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "249792849247",
+    "firebase_url": "https://destiny-talk-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "destiny-talk",
+    "storage_bucket": "destiny-talk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249792849247:android:f9177f05ac86c1cb6302ea",
+        "android_client_info": {
+          "package_name": "com.coresoft.destinytalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249792849247-l640gqki06rp7d0v8li82qapo7fse8hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coresoft.destinytalk",
+            "certificate_hash": "fa2304c0a161de131da81e552ad711fb547a6450"
+          }
+        },
+        {
+          "client_id": "249792849247-uvsld4621c1as1oinkprl78vdhi3s5aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yIyxEoMqbrLZz_BFe5OZs7yjk6hWeUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249792849247-uvsld4621c1as1oinkprl78vdhi3s5aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249792849247:android:f3b943440f8221a46302ea",
+        "android_client_info": {
+          "package_name": "com.coresoft.motionpic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249792849247-uvsld4621c1as1oinkprl78vdhi3s5aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yIyxEoMqbrLZz_BFe5OZs7yjk6hWeUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249792849247-uvsld4621c1as1oinkprl78vdhi3s5aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
